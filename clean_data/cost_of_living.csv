@@ -1,0 +1,537 @@
+country,state,city,cost_of_living,rank_world
+ Albania, Albania,Tirana,37.25,424
+ Algeria, Algeria,Algiers,33.44,469
+ Argentina, Argentina,Buenos Aires,38.57,409
+ Armenia, Armenia,Yerevan,33.16,472
+ Australia, Australia,Adelaide,72.92,110
+ Australia, Australia,Brisbane,70.46,144
+ Australia, Australia,Canberra,69.88,155
+ Australia, Australia,Darwin,72.47,114
+ Australia, Australia,Gold Coast,64.53,235
+ Australia, Australia,Hobart,69.1,169
+ Australia, Australia,Melbourne,74.53,86
+ Australia, Australia,Newcastle,71.42,132
+ Australia, Australia,Perth,75.09,77
+ Australia, Australia,Sydney,79.93,40
+ Austria, Austria,Graz,75.61,71
+ Austria, Austria,Innsbruck,74.66,82
+ Austria, Austria,Linz,77.8,50
+ Austria, Austria,Vienna,70.86,135
+ Azerbaijan, Azerbaijan,Baku,29.41,493
+ Bahrain, Bahrain,Manama,55.23,304
+ Bangladesh, Bangladesh,Dhaka,31.57,481
+ Belarus, Belarus,Minsk,34.07,457
+ Belgium, Belgium,Antwerp,74.88,78
+ Belgium, Belgium,Brussels,75.69,70
+ Belgium, Belgium,Gent,75.27,76
+ Belgium, Belgium,Leuven,74.58,83
+ Bermuda, Bermuda,Hamilton,137.56,1
+ Bosnia And Herzegovina, Bosnia And Herzegovina,Banja Luka,36.54,427
+ Bosnia And Herzegovina, Bosnia And Herzegovina,Sarajevo,39.25,404
+ Brazil, Brazil,Belo Horizonte,40.48,392
+ Brazil, Brazil,Brasilia,44.02,367
+ Brazil, Brazil,Campinas,44.45,361
+ Brazil, Brazil,Curitiba,38.34,413
+ Brazil, Brazil,Florianopolis,40.26,397
+ Brazil, Brazil,Porto Alegre,40.56,389
+ Brazil, Brazil,Recife,40.67,388
+ Brazil, Brazil,Rio de Janeiro,44.12,366
+ Brazil, Brazil,Sao Paulo,44.16,365
+ Brunei, Brunei,Bandar Seri Begawan,48.01,342
+ Bulgaria, Bulgaria,Burgas,36.26,432
+ Bulgaria, Bulgaria,Plovdiv,36.45,429
+ Bulgaria, Bulgaria,Sofia,40.36,395
+ Bulgaria, Bulgaria,Varna,39.13,405
+ Cambodia, Cambodia,Phnom Penh,45.67,355
+ Canada, BC,Nanaimo,65.28,221
+ Canada, Canada,Abbotsford,58.95,292
+ Canada, Canada,Barrie,77.37,53
+ Canada, Canada,Brampton,68.79,176
+ Canada, Canada,Burlington,73.13,106
+ Canada, Canada,Burnaby,64.94,227
+ Canada, Canada,Calgary,68.93,174
+ Canada, Canada,Coquitlam,67.43,188
+ Canada, Canada,Edmonton,67.03,196
+ Canada, Canada,Halifax,70.88,134
+ Canada, Canada,Hamilton,60.75,276
+ Canada, Canada,Kelowna,66.6,201
+ Canada, Canada,Kingston,66.45,205
+ Canada, Canada,Kitchener,58.93,293
+ Canada, Canada,London,59.15,291
+ Canada, Canada,Mississauga,65.08,224
+ Canada, Canada,Moncton,61.15,272
+ Canada, Canada,Montreal,63.52,244
+ Canada, Canada,Oshawa,65.44,220
+ Canada, Canada,Ottawa,62.88,254
+ Canada, Canada,Quebec City,65.07,225
+ Canada, Canada,Red Deer,67.42,189
+ Canada, Canada,Regina,68.46,180
+ Canada, Canada,Saskatoon,74.26,89
+ Canada, Canada,Surrey,59.18,290
+ Canada, Canada,Toronto,70.19,149
+ Canada, Canada,Vancouver,69.63,160
+ Canada, Canada,Victoria,66.17,209
+ Canada, Canada,Windsor,64.42,238
+ Canada, Canada,Winnipeg,63.15,251
+ Canada, NL,St. John's,74.05,94
+ Chile, Chile,Santiago,50.37,328
+ China, China,Beijing,43.88,369
+ China, China,Chengdu,36.16,433
+ China, China,Guangzhou,40.29,396
+ China, China,Shanghai,50.41,325
+ China, China,Shenzhen,42.21,377
+ China, China,Suzhou,37.95,417
+ Colombia, Colombia,Barranquilla,34.04,459
+ Colombia, Colombia,Bogota,35.05,446
+ Colombia, Colombia,Cali,30.48,487
+ Colombia, Colombia,Medellin,33.82,461
+ Costa Rica, Costa Rica,San Jose,57.84,298
+ Croatia, Croatia,Osijek,44.95,357
+ Croatia, Croatia,Rijeka,52.96,316
+ Croatia, Croatia,Split,53.62,312
+ Croatia, Croatia,Zagreb,52.2,317
+ Cuba, Cuba,Havana,49.52,332
+ Cyprus, Cyprus,Larnaca,54.31,309
+ Cyprus, Cyprus,Limassol,57.71,299
+ Cyprus, Cyprus,Nicosia,60.97,273
+ Czech Republic, Czech Republic,Brno,44.59,358
+ Czech Republic, Czech Republic,Olomouc,41.27,386
+ Czech Republic, Czech Republic,Ostrava,40.55,390
+ Czech Republic, Czech Republic,Prague,48.02,341
+ Denmark, Denmark,Aalborg,82.21,30
+ Denmark, Denmark,Arhus,81.94,33
+ Denmark, Denmark,Copenhagen,87.91,20
+ Denmark, Denmark,Odense,84.09,27
+ Dominican Republic, Dominican Republic,Santo Domingo,45.88,352
+ Ecuador, Ecuador,Cuenca,36.13,434
+ Ecuador, Ecuador,Guayaquil,47.21,346
+ Ecuador, Ecuador,Quito,49.42,333
+ Egypt, Egypt,Alexandria,23.92,520
+ Egypt, Egypt,Cairo,25.68,511
+ El Salvador, El Salvador,San Salvador,47.22,345
+ Estonia, Estonia,Tallinn,55.23,305
+ Estonia, Estonia,Tartu,49.65,331
+ Ethiopia, Ethiopia,Addis Ababa,49.96,330
+ Finland, Finland,Espoo,73.78,99
+ Finland, Finland,Helsinki,80.6,36
+ Finland, Finland,Tampere,79.04,44
+ Finland, Finland,Turku,70.13,152
+ France, France,Bordeaux,76.31,62
+ France, France,Grenoble,78.43,46
+ France, France,Lille,67.73,185
+ France, France,Lyon,78.0,48
+ France, France,Marseille,64.64,231
+ France, France,Montpellier,74.08,93
+ France, France,Nantes,72.37,116
+ France, France,Nice,75.84,68
+ France, France,Paris,84.68,26
+ France, France,Strasbourg,75.47,74
+ France, France,Toulouse,76.3,64
+ Georgia, Georgia,Tbilisi,30.22,488
+ Germany, Germany,Aachen,67.33,191
+ Germany, Germany,Berlin,67.75,184
+ Germany, Germany,Bonn,69.14,168
+ Germany, Germany,Bremen,68.93,173
+ Germany, Germany,Cologne,67.36,190
+ Germany, Germany,Dresden,65.92,213
+ Germany, Germany,Dusseldorf,73.0,108
+ Germany, Germany,Frankfurt,71.64,127
+ Germany, Germany,Hamburg,72.15,120
+ Germany, Germany,Hanover,64.57,233
+ Germany, Germany,Heidelberg,70.82,136
+ Germany, Germany,Karlsruhe,69.26,166
+ Germany, Germany,Leipzig,66.04,212
+ Germany, Germany,Mannheim,68.35,181
+ Germany, Germany,Munich,73.79,98
+ Germany, Germany,Nuremberg,66.44,206
+ Germany, Germany,Stuttgart,67.46,187
+ Ghana, Ghana,Accra,57.23,300
+ Greece, Greece,Athens,60.44,279
+ Greece, Greece,Thessaloniki,57.97,297
+ Guatemala, Guatemala,Guatemala City,44.39,362
+ Hong Kong, Hong Kong,Hong Kong,74.73,81
+ Hungary, Hungary,Budapest,43.74,370
+ Hungary, Hungary,Debrecen,38.05,416
+ Hungary, Hungary,Szeged,38.41,411
+ Iceland, Iceland,Reykjavik,112.57,7
+ India, India,Ahmedabad,24.24,519
+ India, India,Bangalore,26.83,504
+ India, India,Bhopal,22.37,531
+ India, India,Bhubaneswar,22.4,528
+ India, India,Chandigarh,26.0,508
+ India, India,Chennai,25.2,515
+ India, India,Coimbatore,22.38,530
+ India, India,Delhi,28.67,497
+ India, India,Goa,24.34,518
+ India, India,Gurgaon,30.71,486
+ India, India,Guwahati,22.68,526
+ India, India,Hyderabad,23.59,524
+ India, India,Indore,25.4,513
+ India, India,Jaipur,25.46,512
+ India, India,Kochi,21.73,533
+ India, India,Kolkata,24.8,516
+ India, India,Lucknow (Lakhnau),24.75,517
+ India, India,Ludhiana,27.17,503
+ India, India,Mangalore,22.4,529
+ India, India,Mumbai,29.03,495
+ India, India,Mysore,22.41,527
+ India, India,Nagpur,22.76,525
+ India, India,Navi Mumbai,19.3,535
+ India, India,Noida,28.55,498
+ India, India,Pune,27.41,501
+ India, India,Surat,23.77,523
+ India, India,Thane,25.31,514
+ India, India,Thiruvananthapuram,19.26,536
+ India, India,Vadodara,22.28,532
+ India, India,Visakhapatnam,21.52,534
+ Indonesia, Indonesia,Bali,41.48,384
+ Indonesia, Indonesia,Bandung,35.58,442
+ Indonesia, Indonesia,Jakarta,41.6,382
+ Indonesia, Indonesia,Surabaya,35.72,439
+ Indonesia, Indonesia,Yogyakarta,34.91,447
+ Iran, Iran,Tehran,34.19,453
+ Iraq, Iraq,Baghdad,47.17,347
+ Iraq, Iraq,Irbil,42.51,374
+ Ireland, Ireland,Cork,73.53,102
+ Ireland, Ireland,Dublin,80.28,39
+ Ireland, Ireland,Galway,73.54,101
+ Ireland, Ireland,Limerick,69.63,161
+ Israel, Israel,Haifa,73.42,104
+ Israel, Israel,Jerusalem,76.62,61
+ Israel, Israel,Ramat Gan,72.15,119
+ Israel, Israel,Tel Aviv-Yafo,77.39,52
+ Italy, Italy,Bologna,69.5,164
+ Italy, Italy,Cagliari,63.15,252
+ Italy, Italy,Florence,77.21,56
+ Italy, Italy,Genoa,75.38,75
+ Italy, Italy,Milan,73.89,95
+ Italy, Italy,Naples,64.82,229
+ Italy, Italy,Padova,73.49,103
+ Italy, Italy,Palermo,61.16,271
+ Italy, Italy,Rome,69.03,171
+ Italy, Italy,Trieste,71.51,130
+ Italy, Italy,Turin,66.68,199
+ Jamaica, Jamaica,Kingston,64.59,232
+ Japan, Japan,Osaka,74.53,85
+ Japan, Japan,Tokyo,84.78,25
+ Jordan, Jordan,Amman,54.72,307
+ Kazakhstan, Kazakhstan,Almaty,32.51,474
+ Kazakhstan, Kazakhstan,Astana,34.9,448
+ Kenya, Kenya,Nairobi,41.76,381
+ Kosovo (Disputed Territory), Kosovo (Disputed Territory),Pristina,26.24,507
+ Latvia, Latvia,Riga,50.82,323
+ Lebanon, Lebanon,Beirut,60.79,275
+ Lithuania, Lithuania,Kaunas,45.88,353
+ Lithuania, Lithuania,Klaipeda,46.98,349
+ Lithuania, Lithuania,Vilnius,48.31,340
+ Luxembourg, Luxembourg,Luxembourg,86.85,22
+ Macedonia, Macedonia,Skopje,34.68,450
+ Malaysia, Malaysia,Johor Bahru,42.59,372
+ Malaysia, Malaysia,Kota Kinabalu,42.15,379
+ Malaysia, Malaysia,Kuala Lumpur,42.44,375
+ Malaysia, Malaysia,Kuching,42.15,378
+ Malaysia, Malaysia,Penang,43.98,368
+ Malaysia, Malaysia,Petaling Jaya,44.31,364
+ Malaysia, Malaysia,Selangor,44.53,360
+ Maldives, Maldives,Male,70.45,145
+ Malta, Malta,Sliema,70.33,146
+ Mexico, Mexico,Cancun,31.35,484
+ Mexico, Mexico,Guadalajara,31.46,483
+ Mexico, Mexico,Merida,29.39,494
+ Mexico, Mexico,Mexico City,34.18,454
+ Mexico, Mexico,Monterrey,34.12,456
+ Mexico, Mexico,Puebla,28.89,496
+ Mexico, Mexico,Puerto Vallarta,29.82,491
+ Mexico, Mexico,Queretaro,31.01,485
+ Mexico, Mexico,Tijuana,32.7,473
+ Moldova, Moldova,Chisinau,33.75,463
+ Mongolia, Mongolia,Ulaanbaatar,34.16,455
+ Montenegro, Montenegro,Podgorica,39.83,400
+ Morocco, Morocco,Casablanca,35.68,440
+ Morocco, Morocco,Rabat,38.59,408
+ Namibia, Namibia,Windhoek,45.84,354
+ Nepal, Nepal,Kathmandu,31.89,477
+ Netherlands, Netherlands,Amsterdam,82.14,31
+ Netherlands, Netherlands,Eindhoven,72.82,111
+ Netherlands, Netherlands,Groningen,72.29,117
+ Netherlands, Netherlands,Leiden,74.56,84
+ Netherlands, Netherlands,Maastricht,73.87,96
+ Netherlands, Netherlands,Rotterdam,74.08,92
+ Netherlands, Netherlands,The Hague (Den Haag),76.75,58
+ Netherlands, Netherlands,Utrecht,76.3,63
+ New Zealand, New Zealand,Auckland,76.63,60
+ New Zealand, New Zealand,Christchurch,70.23,148
+ New Zealand, New Zealand,Dunedin,70.16,151
+ New Zealand, New Zealand,Hamilton,71.91,125
+ New Zealand, New Zealand,Wellington,71.52,128
+ Nigeria, Nigeria,Lagos,33.33,470
+ Norway, Norway,Bergen,102.87,11
+ Norway, Norway,Oslo,107.14,10
+ Norway, Norway,Stavanger,111.0,9
+ Norway, Norway,Trondheim,99.73,13
+ Oman, Oman,Muscat,51.04,320
+ Pakistan, Pakistan,Islamabad,25.86,509
+ Pakistan, Pakistan,Karachi,23.9,521
+ Pakistan, Pakistan,Lahore,25.83,510
+ Panama, Panama,Panama City,54.91,306
+ Paraguay, Paraguay,Asuncion,33.49,468
+ Peru, Peru,Lima,41.47,385
+ Philippines, Philippines,Cebu,36.41,430
+ Philippines, Philippines,Davao,33.57,467
+ Philippines, Philippines,Dumaguete,33.21,471
+ Philippines, Philippines,Makati,51.07,318
+ Philippines, Philippines,Manila,37.95,418
+ Philippines, Philippines,Quezon City,31.66,480
+ Poland, Poland,Bydgoszcz,38.54,410
+ Poland, Poland,Gdansk,42.82,371
+ Poland, Poland,Gdynia,41.22,387
+ Poland, Poland,Katowice,37.48,421
+ Poland, Poland,Krakow (Cracow),39.53,401
+ Poland, Poland,Lodz,37.13,425
+ Poland, Poland,Lublin,36.12,435
+ Poland, Poland,Poznan,38.99,406
+ Poland, Poland,Szczecin,37.35,422
+ Poland, Poland,Warsaw,42.32,376
+ Poland, Poland,Wroclaw,40.0,399
+ Portugal, Portugal,Braga,48.55,338
+ Portugal, Portugal,Coimbra,51.07,319
+ Portugal, Portugal,Funchal,50.9,322
+ Portugal, Portugal,Lisbon,54.16,310
+ Portugal, Portugal,Porto,50.43,324
+ Puerto Rico, Puerto Rico,San Juan,65.79,216
+ Qatar, Qatar,Doha,62.81,255
+ Romania, Romania,Arad,35.84,438
+ Romania, Romania,Brasov,37.13,426
+ Romania, Romania,Bucharest,40.39,394
+ Romania, Romania,Cluj-Napoca,38.13,415
+ Romania, Romania,Constanta,38.89,407
+ Romania, Romania,Craiova,31.78,478
+ Romania, Romania,Iasi,36.54,428
+ Romania, Romania,Oradea,34.35,451
+ Romania, Romania,Sibiu,35.63,441
+ Romania, Romania,Timisoara,38.19,414
+ Russia, Russia,Chelyabinsk,37.29,423
+ Russia, Russia,Kaliningrad,35.4,444
+ Russia, Russia,Kazan,33.67,465
+ Russia, Russia,Krasnodar,32.37,476
+ Russia, Russia,Moscow,44.54,359
+ Russia, Russia,Nizhny Novgorod,34.04,458
+ Russia, Russia,Novosibirsk,33.65,466
+ Russia, Russia,Rostov-na-donu,32.4,475
+ Russia, Russia,Saint Petersburg,39.25,403
+ Russia, Russia,Samara,35.96,437
+ Russia, Russia,Voronezh,31.74,479
+ Russia, Russia,Yekaterinburg,36.41,431
+ Saudi Arabia, Saudi Arabia,Ad Dammam,48.43,339
+ Saudi Arabia, Saudi Arabia,Al Khobar,51.03,321
+ Saudi Arabia, Saudi Arabia,Jeddah (Jiddah),49.99,329
+ Saudi Arabia, Saudi Arabia,Riyadh,48.68,336
+ Serbia, Serbia,Belgrade,40.1,398
+ Serbia, Serbia,Nis,34.2,452
+ Serbia, Serbia,Novi Sad,35.36,445
+ Singapore, Singapore,Singapore,80.4,38
+ Slovakia, Slovakia,Bratislava,48.64,337
+ Slovakia, Slovakia,Kosice,46.27,350
+ Slovenia, Slovenia,Ljubljana,56.34,302
+ Slovenia, Slovenia,Maribor,49.3,334
+ South Africa, South Africa,Cape Town,41.58,383
+ South Africa, South Africa,Durban,40.48,393
+ South Africa, South Africa,Johannesburg,45.51,356
+ South Africa, South Africa,Port Elizabeth,39.41,402
+ South Africa, South Africa,Pretoria,45.89,351
+ South Korea, South Korea,Seoul,81.96,32
+ Spain, Spain,Alicante,53.9,311
+ Spain, Spain,Barcelona,62.15,266
+ Spain, Spain,Granada,50.41,326
+ Spain, Spain,Las Palmas de Gran Canaria,47.39,344
+ Spain, Spain,Madrid,60.12,283
+ Spain, Spain,Malaga,50.38,327
+ Spain, Spain,Palma de Mallorca,65.17,223
+ Spain, Spain,Santa Cruz de Tenerife,48.69,335
+ Spain, Spain,Seville (Sevilla),54.7,308
+ Spain, Spain,Valencia,55.27,303
+ Spain, Spain,Zaragoza (Saragossa),58.0,296
+ Sri Lanka, Sri Lanka,Colombo,36.0,436
+ Suriname, Suriname,Paramaribo,35.45,443
+ Sweden, Sweden,Gothenburg,69.77,158
+ Sweden, Sweden,Malmo,66.14,210
+ Sweden, Sweden,Stockholm,77.23,55
+ Sweden, Sweden,Uppsala,68.75,178
+ Switzerland, Switzerland,Basel,126.89,3
+ Switzerland, Switzerland,Bern,118.42,5
+ Switzerland, Switzerland,Geneva,118.33,6
+ Switzerland, Switzerland,Lausanne,119.62,4
+ Switzerland, Switzerland,Lugano,111.88,8
+ Switzerland, Switzerland,Zurich,128.65,2
+ Taiwan, Taiwan,Kaohsiung,56.44,301
+ Taiwan, Taiwan,Taichung,62.23,263
+ Taiwan, Taiwan,Taipei,65.75,217
+ Tanzania, Tanzania,Dar es Salaam,44.33,363
+ Thailand, Thailand,Bangkok,53.61,313
+ Thailand, Thailand,Chiang Mai,40.53,391
+ Thailand, Thailand,Pattaya,42.53,373
+ Thailand, Thailand,Phuket,46.98,348
+ Trinidad And Tobago, Trinidad And Tobago,Port of Spain,59.6,287
+ Tunisia, Tunisia,Tunis,26.53,506
+ Turkey, Turkey,Ankara,34.77,449
+ Turkey, Turkey,Antalya,33.78,462
+ Turkey, Turkey,Bursa,33.72,464
+ Turkey, Turkey,Istanbul,37.85,419
+ Turkey, Turkey,Izmir,34.03,460
+ Uganda, Uganda,Kampala,31.51,482
+ Ukraine, Ukraine,Dnipro,27.96,499
+ Ukraine, Ukraine,Kharkiv,26.71,505
+ Ukraine, Ukraine,Kiev,29.42,492
+ Ukraine, Ukraine,Lviv,27.24,502
+ Ukraine, Ukraine,Odessa,30.13,489
+ Ukraine, Ukraine,Sumy,23.84,522
+ United Arab Emirates, United Arab Emirates,Abu Dhabi,61.94,269
+ United Arab Emirates, United Arab Emirates,Dubai,53.32,315
+ United Arab Emirates, United Arab Emirates,Sharjah,53.45,314
+ United Kingdom, United Kingdom,Aberdeen,73.02,107
+ United Kingdom, United Kingdom,Bath,74.48,87
+ United Kingdom, United Kingdom,Belfast,62.42,261
+ United Kingdom, United Kingdom,Birmingham,64.46,237
+ United Kingdom, United Kingdom,Brighton,69.54,163
+ United Kingdom, United Kingdom,Bristol,69.58,162
+ United Kingdom, United Kingdom,Cambridge,72.6,112
+ United Kingdom, United Kingdom,Cardiff,62.12,267
+ United Kingdom, United Kingdom,Coventry,66.31,207
+ United Kingdom, United Kingdom,Derby,64.7,230
+ United Kingdom, United Kingdom,Edinburgh,70.73,138
+ United Kingdom, United Kingdom,Exeter,66.56,202
+ United Kingdom, United Kingdom,Glasgow,66.5,203
+ United Kingdom, United Kingdom,Leeds,68.26,182
+ United Kingdom, United Kingdom,Leicester,65.59,219
+ United Kingdom, United Kingdom,Liverpool,62.0,268
+ United Kingdom, United Kingdom,London,81.31,34
+ United Kingdom, United Kingdom,Manchester,69.86,156
+ United Kingdom, United Kingdom,Milton Keynes,78.5,45
+ United Kingdom, United Kingdom,Newcastle upon Tyne,62.76,257
+ United Kingdom, United Kingdom,Norwich,64.95,226
+ United Kingdom, United Kingdom,Nottingham,67.05,195
+ United Kingdom, United Kingdom,Oxford,72.6,113
+ United Kingdom, United Kingdom,Peterborough,41.93,380
+ United Kingdom, United Kingdom,Plymouth,70.02,153
+ United Kingdom, United Kingdom,Portsmouth,71.04,133
+ United Kingdom, United Kingdom,Reading,76.73,59
+ United Kingdom, United Kingdom,Sheffield,62.64,260
+ United Kingdom, United Kingdom,Southampton,63.73,242
+ United Kingdom, United Kingdom,Swindon,69.92,154
+ United Kingdom, United Kingdom,York,69.33,165
+ United States, AK,Anchorage,93.19,16
+ United States, AL,Birmingham,71.87,126
+ United States, AL,Huntsville,59.8,285
+ United States, AR,Fayetteville,64.84,228
+ United States, AR,Little Rock,60.31,281
+ United States, AZ,Phoenix,64.31,241
+ United States, AZ,Tucson,63.35,246
+ United States, CA,Bakersfield,67.11,193
+ United States, CA,Berkeley,84.09,28
+ United States, CA,Fresno,63.25,249
+ United States, CA,Irvine,78.38,47
+ United States, CA,Long Beach,77.95,49
+ United States, CA,Los Angeles,77.66,51
+ United States, CA,Oakland,81.18,35
+ United States, CA,Sacramento,75.54,73
+ United States, CA,San Diego,72.29,118
+ United States, CA,San Francisco,96.88,14
+ United States, CA,San Jose,76.28,65
+ United States, CA,Santa Barbara,75.55,72
+ United States, CA,Santa Rosa,88.27,19
+ United States, CO,Boulder,77.16,57
+ United States, CO,Denver,72.02,123
+ United States, CT,Hartford,79.85,41
+ United States, DC,Washington,88.5,18
+ United States, FL,Fort Myers,71.5,131
+ United States, FL,Gainesville,63.62,243
+ United States, FL,Jacksonville,70.62,139
+ United States, FL,Miami,75.83,69
+ United States, FL,Orlando,70.18,150
+ United States, FL,Saint Petersburg,70.49,142
+ United States, FL,Tallahassee,67.24,192
+ United States, FL,Tampa,68.61,179
+ United States, FL,West Palm Beach,74.79,80
+ United States, GA,Atlanta,72.05,122
+ United States, HI,Honolulu,93.72,15
+ United States, IA,Des Moines,62.21,264
+ United States, ID,Boise,59.43,288
+ United States, IL,Chicago,77.33,54
+ United States, IL,Peoria,69.84,157
+ United States, IN,Fort Wayne,65.88,214
+ United States, IN,Indianapolis,70.79,137
+ United States, KS,Wichita,63.18,250
+ United States, KY,Lexington,59.64,286
+ United States, KY,Louisville,60.24,282
+ United States, LA,New Orleans,73.61,100
+ United States, MA,Boston,80.46,37
+ United States, MD,Baltimore,73.85,97
+ United States, ME,Portland,74.81,79
+ United States, MI,Ann Arbor,67.06,194
+ United States, MI,Detroit,62.77,256
+ United States, MI,Grand Rapids,63.47,245
+ United States, MN,Minneapolis,72.93,109
+ United States, MN,Saint Paul,71.94,124
+ United States, MO,Kansas City,65.74,218
+ United States, MO,Saint Louis,69.02,172
+ United States, MO,Springfield,60.56,277
+ United States, NC,Asheville,71.52,129
+ United States, NC,Charlotte,73.33,105
+ United States, NC,Greensboro,64.46,236
+ United States, NC,Raleigh,69.18,167
+ United States, NJ,Jersey City,84.08,29
+ United States, NM,Albuquerque,64.32,240
+ United States, NV,Las Vegas,66.98,197
+ United States, NV,Reno,59.84,284
+ United States, NY,Albany,79.38,42
+ United States, NY,Brooklyn,90.31,17
+ United States, NY,Buffalo,70.59,140
+ United States, NY,New York,100.0,12
+ United States, NY,Rochester,70.25,147
+ United States, NY,Syracuse,67.55,186
+ United States, OH,Cincinnati,62.65,259
+ United States, OH,Cleveland,69.65,159
+ United States, OH,Columbus,66.9,198
+ United States, OH,Dayton,65.84,215
+ United States, OH,Toledo,60.35,280
+ United States, OK,Oklahoma City,61.72,270
+ United States, OK,Tulsa,62.67,258
+ United States, OR,Eugene,72.46,115
+ United States, OR,Portland,74.17,91
+ United States, OR,Salem,66.04,211
+ United States, PA,Philadelphia,79.25,43
+ United States, PA,Pittsburgh,76.04,67
+ United States, SC,Charleston,86.87,21
+ United States, SC,Columbia,66.23,208
+ United States, TN,Chattanooga,63.28,248
+ United States, TN,Knoxville,60.97,274
+ United States, TN,Memphis,66.49,204
+ United States, TN,Nashville,68.78,177
+ United States, TX,Arlington,69.07,170
+ United States, TX,Austin,70.49,143
+ United States, TX,Dallas,64.32,239
+ United States, TX,El Paso,59.37,289
+ United States, TX,Fort Worth,65.19,222
+ United States, TX,Houston,62.16,265
+ United States, TX,Lubbock,62.4,262
+ United States, TX,San Antonio,58.12,294
+ United States, UT,Salt Lake City,62.94,253
+ United States, VA,Richmond,64.56,234
+ United States, VA,Virginia Beach,67.86,183
+ United States, VT,Burlington,76.11,66
+ United States, WA,Bellevue,85.97,23
+ United States, WA,Bellingham,72.14,121
+ United States, WA,Everett,74.36,88
+ United States, WA,Olympia,70.57,141
+ United States, WA,Seattle,85.51,24
+ United States, WA,Spokane,66.6,200
+ United States, WA,Tacoma,74.21,90
+ United States, WA,Vancouver,60.46,278
+ United States, WI,Madison,63.3,247
+ United States, WI,Milwaukee,68.81,175
+ Uruguay, Uruguay,Montevideo,58.05,295
+ Uzbekistan, Uzbekistan,Tashkent,29.94,490
+ Venezuela, Venezuela,Caracas,27.82,500
+ Vietnam, Vietnam,Hanoi,38.34,412
+ Vietnam, Vietnam,Ho Chi Minh City,37.82,420
+ Zimbabwe, Zimbabwe,Harare,47.78,343
