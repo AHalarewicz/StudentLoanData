@@ -24,32 +24,49 @@ After correcting class imbalance:
 
 # Important jupyter notebook files:
   1. clean.ipynb: 
+      
       Data wrangling and cleaning for U.S. census income data and student loan data.
       
+      
   2. eda.ipynb: 
+      
       Exploratory data analysis of U.S. census income data and student loan data.
       
+      
   3. statistics.ipynb:  
+      
       Application of Frequentist, Bootsrap, and Bayesian statistics to the data.
       
+      
   4. machine_learning/clean.ipynb:  
+  
       Wrangling and cleaning Lending club data and preparing features and targets for classification.
       
+      
   5. machine_learning/eda.ipynb:  
+  
       Exploring patterns and identifying key features in the Lending Club loans data. 
       
+      
   6. machine_learning/random_forest.ipynb:  
+  
       Implementation of a Random Forest classifier to predict Loan Default
       
+      
   7. machine_learning/SVM.ipynb:   
+  
       Implementation and optimization of a Support Vector Machine for classification to predict Loan Default. 
+      
       
   
 # Important Reports
   1. reports/Understanding_Sudent_Debt.pdf
+  
       Slide deck presentation describing the purpose and results of the project.
       
+      
   2. reports/Capstone_Final_Report.pdf
+  
       Complete write up describe the entire data science process from reading data files to analyzing predicts. 
       
       
