@@ -1,9 +1,9 @@
 # capstone1:
-# Predicting a Student's ability to repay their Loan
+## Predicting a Student's ability to repay their Loan
 
 Capstone Project for Springboard's Data Science Career Track
 
-# Project Description:
+## Project Description:
 
 The purpose of this project is to predict if a borrower will default on a borrowed Loan. 
 
@@ -11,10 +11,10 @@ This project explores student debt, a borrower's financial standing, and a borro
 
 This repository contains all of the elements that exhibit proficient knowledge in the complete data science life cycle.
 
-# Objective:
+## Objective:
 Train a Random Forest and Support Vector Machine to predict if a Loan will default
 
-# Results:
+## Results:
 After correcting class imbalance: 
 
   The model performs with 71% accuracy
@@ -22,7 +22,7 @@ After correcting class imbalance:
   And has a True Positive Rate of 68% when predicting loan default
 
 
-# Important jupyter notebook files:
+## Important jupyter notebook files:
   1. clean.ipynb: 
       
       Data wrangling and cleaning for U.S. census income data and student loan data.
@@ -59,7 +59,7 @@ After correcting class imbalance:
       
       
   
-# Important Reports
+## Important Reports
   1. reports/Understanding_Sudent_Debt.pdf
   
       Slide deck presentation describing the purpose and results of the project.
