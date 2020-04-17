@@ -1,4 +1,4 @@
-# capstone1:
+# Springboard Capstone Project 1:
 ## Predicting a Student's ability to repay their Loan
 
 Capstone Project for Springboard's Data Science Career Track
